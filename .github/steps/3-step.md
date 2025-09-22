@@ -1,27 +1,40 @@
-## Step 3: (replace-me: STEP-NAME)
+## Step 3: Add a chat mode project management process deep dive
 
-(replace-me: OPTIONAL Brief story or scenario to introduce the step)
+Time to create a specialized chat mode that will help you dive deeper into OctoAcme's project management processes. Custom chat modes allow you to focus Copilot's capabilities on specific topics and workflows.
 
-### 📖 Theory: (replace-me: Theory title)
+### 📖 Theory: Custom Chat Modes in Copilot Spaces
 
-<!-- GitHub-styled notifications can be used outside of ordered lists. Available options are: NOTE, IMPORTANT, WARNING, TIP, CAUTION -->
-<!--
-> [!NOTE]
-> (Important note or additional information relevant to this section)
- -->
+Custom chat modes are specialized conversation contexts that guide Copilot to focus on specific domains, use cases, or expertise areas. They work by:
+- Providing domain-specific context and vocabulary
+- Establishing conversation patterns and question types
+- Focusing responses on particular aspects of your work
+- Enabling more targeted and relevant assistance
 
-(replace-me: Optional theory or background information relevant to this step)
+For project management, a custom chat mode can help with:
+- Process analysis and improvement
+- Gap identification
+- Best practice recommendations
+- Role and responsibility clarification
 
-### ⌨️ Activity: (replace-me: Activity title)
+### ⌨️ Activity: Create and Use Project Management Deep Dive Chat Mode
 
-1. (replace-me: First instruction)
-1. (replace-me: Second instruction)
-1. (replace-me: Additional instructions as needed)
+1. Create a new file at `.github/chatmodes/project-management-deepdive.md`
+2. Add content that defines a chat mode focused on project management process analysis
+3. Use this custom chat mode to ask the following three questions:
+   - "Are there any gaps in the process?"
+   - "Suggest improvements to OctoAcme's project management process"
+   - "What other roles/personas should OctoAcme account for?"
+4. Document the responses in the comments of this issue
+5. Include insights about what the chat mode revealed about your processes
+
+> [!TIP]
+> If you can't create the actual chat mode, simulate the deep dive by manually analyzing the documentation and answering those three questions based on your review.
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
-- (replace-me: Troubleshooting tip or hint)
-- (replace-me: Additional troubleshooting tips as needed)
+- The chat mode file should include instructions for Copilot to focus on project management analysis
+- Think about what specific guidance would help someone analyze project management processes
+- Consider including context about OctoAcme's goals and constraints
 
 </details>
