@@ -29,7 +29,7 @@ Spaces help transform scattered information into an organized, searchable, and i
 
 1. In your newly created Copilot Space, look for "Sources" or "Add Source" section
 1. Add this exercise repository as a source:
-   - Repository URL: `https://github.com/arilivigni/democratize-tribal-knowledge-using-copilot-spaces`
+   - Repository URL: `<YOUR_REPOSITORY_URL>`  <!-- Replace with the URL of your fork or copy of this repository -->
    - This gives Copilot access to the project management documentation and processes
 1. Wait for the repository to be indexed (this may take a few minutes)
 1. Verify the repository appears in your sources list
