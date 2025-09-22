@@ -1,31 +1,31 @@
-# (replace-me: Exercise title)
+# Democratize Tribal Knowledge Using Copilot Spaces
 
-_(replace-me: One-line description of the exercise)_
+_Learn how to use GitHub Copilot Spaces to centralize and democratize project management knowledge within your team_
 
 ## Welcome
 
-- **Who is this for**: (replace-me: Target audience description)
-- **What you'll learn**: (replace-me: Learning objectives)
-- **What you'll build**: (replace-me: Description of what the learner will create)
+- **Who is this for**: Project managers, team leads, and developers looking to streamline knowledge sharing
+- **What you'll learn**: How to leverage GitHub Copilot Spaces to capture, organize, and improve project management processes
+- **What you'll build**: A comprehensive knowledge management system using Copilot Spaces with custom chat modes
 - **Prerequisites**:
-  - (replace-me: Prerequisite skill/exercise)
-  - (replace-me: Other prerequisites)
+  - Basic familiarity with GitHub repositories
+  - Access to GitHub Copilot Spaces
+  - Beginner-level project management concepts
 
-- **How long**: This exercise takes less than (replace-me: estimated time) to complete.
+- **How long**: This exercise takes less than 30 minutes to complete.
 
 In this exercise, you will:
 
-1. (replace-me: Learning objective step #1)
-1. (replace-me: Learning objective step #2)
-1. (replace-me: Learning objective step #N)
-
+1. Add a repository as a source to your Copilot Space
+2. Explore and summarize project management process documentation
+3. Create and use custom chat modes for deep process analysis
+4. Update repository documentation based on insights discovered
 
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
-<!--  (replace-me: Make sure to edit the URL with proper template_owner, template_name, repo name and description)  -->
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=exercise-template&owner=%40me&name=skills-<replace-me>&description=Exercise:+Replace+me&visibility=public)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=arilivigni&template_name=democratize-tribal-knowledge-using-copilot-spaces&owner=%40me&name=democratize-tribal-knowledge-using-copilot-spaces&description=Exercise:+Democratize+Tribal+Knowledge+Using+Copilot+Spaces&visibility=public)
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
