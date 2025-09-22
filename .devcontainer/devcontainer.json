@@ -12,7 +12,6 @@
       ],
       "settings": {
         "livePreview.openPreviewTarget": "External Browser",
-        
         "chat.implicitContext.suggestedContext": false,
 
         // These are defaults but keeping them here for clarity and explicitness
