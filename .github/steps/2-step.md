@@ -46,7 +46,7 @@ Generate a summary should be 3-4 paragraphs covering the main processes OctoAcme
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
-   > Create a 3-4 paragraph summary of the project management processes used by OctoAcme based on the documentation in the docs folder of this repository. 
+   > Create a 3-4 paragraph summary of the project management processes used by OctoAcme based on the documentation in the docs folder of this repository.
    > Focus on key workflows, personas/roles, communication strategies, and quality assurance practices.
    > ```
 
