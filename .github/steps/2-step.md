@@ -40,7 +40,8 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
-   > - Create a 3-4 paragraph summary of the project management processes used by OctoAcme based on the documentation in the docs folder of this repository.
+   > - Create a 3-4 paragraph summary of the project management processes used by OctoAcme
+   >   based on the documentation in the docs folder of this repository.
    > - Focus on key workflows, personas/roles, communication strategies, and quality assurance practices.
    > ```
 
@@ -65,7 +66,8 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
    >
    > ```prompt
    > - Using the github-copilot-agent tool create a pull request based on the attached issue.
-   > - The README should also contain a brief overview of the project management processes used by OctoAcme based on the summary we just created.
+   > - The README should also contain a brief overview of the project management processes
+   >   used by OctoAcme based on the summary we just created.
    > ```
 
 <img width="80%" height="80%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/521ffed3-c5ef-4c14-a99d-e85d366b3fed" />
