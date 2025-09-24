@@ -12,7 +12,7 @@ In this step you will establish a Copilot Space and give it the minimum context 
 
 ### Copilot usage requirements (apply to every conversation here)
 
-- Model: GPT-4.1
+- Model: **GPT-4.1**
 - For pull request draft generation: include the phrase `Using the github-copilot-agent tool` in your prompt (PR drafts use the GHCP coding agent).
 - Keep prompts explicit about desired outputs (issues, summaries, links).
 
@@ -20,8 +20,7 @@ In this step you will establish a Copilot Space and give it the minimum context 
 
 - You can access https://github.com/copilot/spaces
 - You have (or will fork) the exercise repository
-- You know your GitHub username to build the repository URL
-- You can wait for indexing (a few seconds to a few minutes)
+- You know your GitHub handle to build the repository URL
 
 Proceed to the activities below to execute each action.
 
@@ -29,23 +28,24 @@ Proceed to the activities below to execute each action.
 
 > [!IMPORTANT]
 > In all conversations with Copilot Spaces, always be aware of the following:
-> Use the GPT-4.1 model
-> Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-copilot-agent tool`
+> Use the **GPT-4.1** model
+> Pull request drafts utilizes **GHCP coding agent**, therefore your prompt should contain `Using the github-copilot-agent tool`
 
 ### ⌨️ Activity: Create your OctoAcme Project Management Hub Copilot Space
 
 1. Navigate to GitHub Copilot Spaces https://github.com/copilot/spaces (ensure you have access to this feature)
-1. Click "Create new Space" or the equivalent option
-1. Name your Space: ex. "OctoAcme Project Management Hub"
+1. Click **Create Space** button
+1. Name your Space: ex. _"OctoAcme Project Management Hub"_
 1. Add a description: "Centralizing and democratizing project management knowledge for the OctoAcme organization"
-1. Create the Space
+1. Click **Save**
 
-<!-- image place holder -->
+<img width="50%" height="50%" alt="Copilot Space Create Space" src="https://github.com/user-attachments/assets/b420ce52-62f6-4862-a865-08e23aba8adf" />
 
 ### ⌨️ Activity: Add instructions to your Copilot Space
 
-- In your newly created Copilot Space, look for "Instructions" section
-- Add the following instructions to provide context about the repository and its purpose:
+- In your newly created Copilot Space, look for the **Instructions** button
+- Add the following instructions to provide context about the repository and its purpose
+- Click **Save**
 
    > ```markdown
    > ## Program process documents
@@ -68,22 +68,27 @@ Proceed to the activities below to execute each action.
    > - Stored in `.github/ISSUE_TEMPLATE/`
    > ```
 
-<!-- image place holder -->
+<img width="50%" height="50%" alt="Copilot Spaces Instructions" src="https://github.com/user-attachments/assets/5bfe36ad-b370-4f17-ace0-f7cd26ff7b3d" />
+<img width="50%" height="50%" alt="Copilot Spaces Instructions detail" src="https://github.com/user-attachments/assets/7fd63002-6835-4ddd-ad96-8b4d0a53e63a" />
 
 ### ⌨️ Activity: Add your cloned repository as a source repository to your Copilot Space
 
-1. In your newly created Copilot Space, look for "Sources" or "Add Source" section
+1. In your newly created Copilot Space, look for **Add sources** button
 1. Add this exercise repository as a source:
    - Start to type your <your-handle>/<repo-name> and select it from the dropdown
    For example: `octocat/skills-democratize-tribal-knowledge-using-copilot-spaces`
-   - This gives Copilot access to the project management documentation and processes
-1. Wait for the repository to be indexed (this may take a few seconds to a few minutes depending on size)
+   - This gives Copilot access to the project management documentation and processes in the repository
+1. Select the `docs` folder
 1. Verify the repository appears in your sources list
+
+<img width="30%" height="30%" alt="Add sources" src="https://github.com/user-attachments/assets/b7d3e5d3-3093-48d9-b234-bfd8ff70edc4" />
+<img width="30%" height="30%" alt="Add sources repository" src="https://github.com/user-attachments/assets/71d12ea8-10e4-4c1e-9560-ed45ee82280e" />
+<img width="50%" height="50%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/16ace217-09cd-44d1-9a21-edfe69c4f0b0" />
 
 ### ⌨️ Activity: Create an issue in the repository for a README for OctoAcme Project Management Docs
 
 > [!IMPORTANT]
-> Use the GPT-4.1 model for all conversations with Copilot Spaces.
+> Use the **GPT-4.1** model for all conversations with Copilot Spaces.
 
 - Open your Copilot Space you created above. https://github.com/copilot/spaces
 - In the conversation interface prompt the following:
@@ -96,9 +101,13 @@ Proceed to the activities below to execute each action.
    > - Make sure README, project management processes summary, and links are in the title of the issue.
    > ```
 
-You can then add this issue by hitting the "Create Issue" button.
+You can then add this issue to your repository by clicking the **Create** button.
 
-<!-- image place holder -->
+<img width="50%" height="50%" alt="conversation to create an issue" src="https://github.com/user-attachments/assets/bc624b52-a8b9-4a85-91b5-e356d1ccf9a3" />
+
+You can copy or open the link in a new tab to see the newly created issue
+
+<img width="50%" height="50%" alt="cs-9" src="https://github.com/user-attachments/assets/6bb2af7e-a6db-40a9-8d09-da08cc9cdc32" />
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
@@ -106,6 +115,6 @@ You can then add this issue by hitting the "Create Issue" button.
 - Make sure you have access to GitHub Copilot Spaces (currently in beta/limited access)
 - The repository should be publicly accessible for Copilot to index it
 - If you can't access Copilot Spaces, you can continue by manually exploring the repository structure and documentation
-- Repository indexing can take 5-10 minutes depending on size
+- Repository indexing can take seconds to minutes depending on size
 
 </details>
