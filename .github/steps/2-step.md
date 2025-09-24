@@ -40,8 +40,8 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
-   > Create a 3-4 paragraph summary of the project management processes used by OctoAcme based on the documentation in the docs folder of this repository.
-   > Focus on key workflows, personas/roles, communication strategies, and quality assurance practices.
+   > - Create a 3-4 paragraph summary of the project management processes used by OctoAcme based on the documentation in the docs folder of this repository.
+   > - Focus on key workflows, personas/roles, communication strategies, and quality assurance practices.
    > ```
 
 <img width="50%" height="50%" alt="Copilot response with the summary" src="https://github.com/user-attachments/assets/26a54642-a14b-498d-a195-d1ffd45e5679" />
