@@ -1,12 +1,11 @@
 name: Step 3 # Last step of the exercise
 
 on:
-  workflow_dispatch:
-  # pull_request:
-  #   branches:
-  #     - main
-  #   types:
-  #     - closed
+  pull_request:
+    branches:
+      - main
+    types:
+      - closed
 
 permissions:
   contents: write
