@@ -50,7 +50,7 @@ Generate a summary should be 3-4 paragraphs covering the main processes OctoAcme
    > Focus on key workflows, personas/roles, communication strategies, and quality assurance practices.
    > ```
 
-<! image place holder>
+<!-- image place holder -->
 
 ### ⌨️ Activity: Attach an issue and create a Pull Request
 
@@ -64,7 +64,7 @@ Generate a summary should be 3-4 paragraphs covering the main processes OctoAcme
 > Use the GPT-4.1 model
 > Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-copilot-agent tool`
 
-<! image place holder >
+<!-- image place holder -->
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >

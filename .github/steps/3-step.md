@@ -25,7 +25,7 @@ Effective process evolution follows a lightweight cycle:
 
 - Attach the issue template `github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml` to this new Copilot Space conversation.
 
-<! image place holder >
+<!-- image place holder -->
 
 _Use the following prompt in a new Copilot Space conversation:_
 
@@ -51,7 +51,7 @@ _Use the following prompt in the current Copilot Space conversation:_
 > Use the GPT-4.1 model
 > Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-copilot-agent tool`
 
-<! image place holder >
+<!-- image place holder -->
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >

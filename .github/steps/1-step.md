@@ -40,7 +40,7 @@ Proceed to the activities below to execute each action.
 1. Add a description: "Centralizing and democratizing project management knowledge for the OctoAcme organization"
 1. Create the Space
 
-<! image place holder>
+<!-- image place holder -->
 
 ### ⌨️ Activity: Add instructions to your Copilot Space
 
@@ -68,14 +68,14 @@ Proceed to the activities below to execute each action.
    > - Stored in `.github/ISSUE_TEMPLATE/`
    > ```
 
-<! image place holder >
+<!-- image place holder -->
 
 ### ⌨️ Activity: Add your cloned repository as a source repository to your Copilot Space
 
 1. In your newly created Copilot Space, look for "Sources" or "Add Source" section
 1. Add this exercise repository as a source:
-   - Repository URL: `https://github.com/<your-username>/<repo-name>`  
-     (Replace `<your-username>` with your GitHub username and `<repo-name>` with the name of your fork or copy of this repository. For example: `https://github.com/octocat/skills-democratize-tribal-knowledge-using-copilot-spaces`)
+   - Start to type your <your-handle>/<repo-name> and select it from the dropdown
+   For example: `octocat/skills-democratize-tribal-knowledge-using-copilot-spaces`
    - This gives Copilot access to the project management documentation and processes
 1. Wait for the repository to be indexed (this may take a few seconds to a few minutes depending on size)
 1. Verify the repository appears in your sources list
@@ -98,7 +98,7 @@ Proceed to the activities below to execute each action.
 
 You can then add this issue by hitting the "Create Issue" button.
 
-<! image place holder >
+<!-- image place holder -->
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
