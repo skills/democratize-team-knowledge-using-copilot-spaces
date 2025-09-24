@@ -25,7 +25,7 @@ Effective process evolution follows a lightweight cycle:
 
 _Use the following prompt in a new Copilot Space conversation:_
 
-- Attach the issue template `github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml` to this new Copilot Space conversation.z
+- Attach the issue template `.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml` to this new Copilot Space conversation.
 
 <img width="50%" height="50%" alt="Attach" src="https://github.com/user-attachments/assets/2a447ff9-76d7-462f-9292-4663c8dc0fc9" />
 
@@ -71,7 +71,8 @@ In the same Copilot Space conversation do the following:
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
-   > - Using the github-copilot-agent tool create a pull request that implements process improvements based on the analysis we did earlier.
+   > - Using the github-copilot-agent tool create a pull request that implements process improvements
+   >   based on the analysis we did earlier.
    > - The improvements should address gaps or inefficiencies identified in the project management documentation.
    > - The pull request should include updates to existing docs or new templates/checklists as needed.
    > ```
