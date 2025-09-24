@@ -81,4 +81,3 @@ Generate a summary should be 3-4 paragraphs covering the main processes OctoAcme
 - If using Copilot, try asking: "Summarize the project management processes in the docs folder"
 
 </details>
-
