@@ -93,7 +93,7 @@ Proceed to the activities below to execute each action.
    > ```prompt
    > Create an issue in the repository for a README for OctoAcme Project Management Docs that has links to all the docs in the docs folder.
    > - The README should also contain a brief summary of the project management processes used by OctoAcme.
-   > - Make sure README and project management processes summary and links are in the title of the issue.
+   > - Make sure README, project management processes summary, and links are in the title of the issue.
    > ```
 
 You can then add this issue by hitting the "Create Issue" button.
