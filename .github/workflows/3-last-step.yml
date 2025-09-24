@@ -2,9 +2,6 @@ name: Step 3 # Last step of the exercise
 
 on:
   workflow_dispatch:
-  # Common event triggers: pull_request, push, issues, issue_comment (feel free to experiment)
-  # Docs: https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
-  # Example:
   # pull_request:
   #   branches:
   #     - main

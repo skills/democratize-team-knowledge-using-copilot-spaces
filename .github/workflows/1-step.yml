@@ -2,12 +2,9 @@ name: Step 1
 
 on:
   workflow_dispatch:
-  # Common event triggers: pull_request, push, issues, issue_comment (feel free to experiment)
-  # Docs: https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
-  # Example:
-  # pull_request:
-  #   branches:
-  #     - main
+  # issues:
+  #  types:
+  #    - opened
 
 permissions:
   contents: read
@@ -26,6 +23,8 @@ jobs:
     name: Post next step content
     needs: [find_exercise]
     runs-on: ubuntu-latest
+    # Only run if the issue title contains any of the specified keywords "README", "processes", or "links"
+    if: contains(github.event.issue.title, 'README') || contains(github.event.issue.title, 'processes') || contains(github.event.issue.title, 'links')
     env:
       ISSUE_REPOSITORY: ${{ github.repository }}
       ISSUE_NUMBER: ${{ needs.find_exercise.outputs.issue-number }}

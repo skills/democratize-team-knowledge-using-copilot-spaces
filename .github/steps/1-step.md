@@ -1,40 +1,104 @@
-## Step 1: Create a Copilot Space
+## Step 1: Create and Prime Your Copilot Space
 
-You've just been hired as a project manager at OctoAcme, a growing tech company. Your team is struggling with scattered project management knowledge - processes are documented in different places, tribal knowledge exists only in people's heads, and new team members have trouble getting up to speed. You've heard about GitHub Copilot Spaces and want to use it to centralize and democratize your team's project management knowledge.
+In this step you will establish a Copilot Space and give it the minimum context it needs to act as a project management knowledge hub for OctoAcme.
 
-### 📖 Theory: Understanding Copilot Spaces
+### What you will do now
 
-GitHub Copilot Spaces is a collaborative workspace that allows you to ground Copilot's knowledge in your specific context. By creating a dedicated Space, you can:
+1. Create a new Copilot Space (this is the container for all subsequent conversations).
+2. Add high‑level Instructions (purpose, where process docs live, why the Space exists).
+3. Attach (add as a Source) your cloned exercise repository so Copilot can index `docs/` and issue templates.
+4. Confirm the repository finishes indexing (appears in Sources).
+5. Start a conversation in the Space to generate an issue that will track creating a README summarizing OctoAcme project management processes and linking every document in `docs/`.
 
-- **Centralize knowledge**: Bring together documentation, code, and processes in one place
-- **Add contextual sources**: Include repositories, documentation, and other resources that inform Copilot about your work
-- **Enable focused conversations**: Use Copilot with deep understanding of your specific domain and processes
-- **Scale expertise**: Make tribal knowledge accessible to everyone on your team
+### Copilot usage requirements (apply to every conversation here)
 
-Spaces help transform scattered information into an organized, searchable, and intelligent knowledge base that grows with your team.
+- Model: GPT-4.1
+- For pull request draft generation: include the phrase `Using the github-copilot-agent tool` in your prompt (PR drafts use the GHCP coding agent).
+- Keep prompts explicit about desired outputs (issues, summaries, links).
 
-### ⌨️ Activity: Create Your Project Management Copilot Space
+### Readiness checklist before proceeding
 
-1. Navigate to GitHub Copilot Spaces in your GitHub account
+- You can access https://github.com/copilot/spaces
+- You have (or will fork) the exercise repository
+- You know your GitHub username to build the repository URL
+- You can wait for indexing (a few seconds to a few minutes)
+
+Proceed to the activities below to execute each action.
+
+[Use Copilot Spaces](https://docs.github.com/en/copilot/how-tos/provide-context/use-copilot-spaces/)
+
+> [!IMPORTANT]
+> In all conversations with Copilot Spaces, always be aware of the following:
+> Use the GPT-4.1 model
+> Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-copilot-agent tool`
+
+### ⌨️ Activity: Create your OctoAcme Project Management Hub Copilot Space
+
+1. Navigate to GitHub Copilot Spaces https://github.com/copilot/spaces (ensure you have access to this feature)
 1. Click "Create new Space" or the equivalent option
-1. Name your Space: "OctoAcme Project Management Hub"
-1. Add a description: "Centralizing and democratizing project management knowledge for the OctoAcme team"
-1. Set the Space visibility according to your organization's policies
+1. Name your Space: ex. "OctoAcme Project Management Hub"
+1. Add a description: "Centralizing and democratizing project management knowledge for the OctoAcme organization"
 1. Create the Space
 
-> [!NOTE]
-> If you don't have access to Copilot Spaces yet, you can simulate this step by taking notes on what you would include in your Space setup.
+<!-- image place holder -->
 
-### ⌨️ Activity: Add Source Repositories
+### ⌨️ Activity: Add instructions to your Copilot Space
+
+- In your newly created Copilot Space, look for "Instructions" section
+- Add the following instructions to provide context about the repository and its purpose:
+
+   > ```markdown
+   > ## Program process documents
+   >
+   > - Stored in `docs/`
+   >
+   > ### Purpose of this Copilot Space
+   >
+   > - Centralize scattered project management knowledge in Copilot Spaces
+   > - Convert tacit tribal insights into searchable, versioned artifacts
+   > - Give all team members equal access to processes, decisions, and rationale
+   > - Connect a repository as a structured knowledge source
+   > - Extract, refine, and standardize workflows collaboratively
+   > - Feed validated improvements back into living documentation
+   > - Accelerate onboarding and reduce single-person dependency risk
+   > - Enable consistent, repeatable project execution
+   >
+   > ## Issue templates for program process documents
+   >
+   > - Stored in `.github/ISSUE_TEMPLATE/`
+   > ```
+
+<!-- image place holder -->
+
+### ⌨️ Activity: Add your cloned repository as a source repository to your Copilot Space
 
 1. In your newly created Copilot Space, look for "Sources" or "Add Source" section
 1. Add this exercise repository as a source:
-   - Repository URL: `https://github.com/<your-username>/<repo-name>`  
-     (Replace `<your-username>` with your GitHub username and `<repo-name>` with the name of your fork or copy of this repository. For example: `https://github.com/octocat/project-management-hub`)
+   - Start to type your <your-handle>/<repo-name> and select it from the dropdown
+   For example: `octocat/skills-democratize-tribal-knowledge-using-copilot-spaces`
    - This gives Copilot access to the project management documentation and processes
-1. Wait for the repository to be indexed (this may take a few minutes)
+1. Wait for the repository to be indexed (this may take a few seconds to a few minutes depending on size)
 1. Verify the repository appears in your sources list
-1. (Optional) If you have other project management repositories or documentation, add them as additional sources
+
+### ⌨️ Activity: Create an issue in the repository for a README for OctoAcme Project Management Docs
+
+> [!IMPORTANT]
+> Use the GPT-4.1 model for all conversations with Copilot Spaces.
+
+- Open your Copilot Space you created above. https://github.com/copilot/spaces
+- In the conversation interface prompt the following:
+
+   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   >
+   > ```prompt
+   > Create an issue in the repository for a README for OctoAcme Project Management Docs that has links to all the docs in the docs folder.
+   > - The README should also contain a brief summary of the project management processes used by OctoAcme.
+   > - Make sure README, project management processes summary, and links are in the title of the issue.
+   > ```
+
+You can then add this issue by hitting the "Create Issue" button.
+
+<!-- image place holder -->
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
