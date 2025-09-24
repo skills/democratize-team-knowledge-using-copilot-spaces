@@ -1,10 +1,9 @@
 name: Step 1 
 
 on:
-  workflow_dispatch:
-  # issues:
-  #  types:
-  #    - opened
+  issues:
+   types:
+     - opened
 
 permissions:
   contents: read
