@@ -66,7 +66,7 @@ jobs:
         continue-on-error: true
         uses: skills/exercise-toolkit/actions/file-exists@v0.7.0
         with:
-          file: README.md
+          file: docs/README.md
 
       # replace-me: Example of a grading check. You can add more checks as needed.
       - name: Check for keyphrase in README.md
@@ -75,7 +75,7 @@ jobs:
         uses: skills/action-keyphrase-checker@v1
         with:
           text-file: README.md
-          keyphrase: Installation guide
+          keyphrase: 'roles'
 
       - name: Update comment - step results
         uses: GrantBirki/comment@v2.1.1
