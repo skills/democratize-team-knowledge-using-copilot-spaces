@@ -39,7 +39,7 @@ Proceed to the activities below to execute each action.
 1. Add a description: "Centralizing and democratizing project management knowledge for the OctoAcme organization"
 1. Click **Save**
 
-<img width="50%" height="50%" alt="Copilot Space Create Space" src="https://github.com/user-attachments/assets/b420ce52-62f6-4862-a865-08e23aba8adf" />
+<img width="50%" height="50%" alt="Copilot Space Create Space" src="https://github.com/user-attachments/assets/a6d41367-fed2-442e-8618-7b2a5a7b912c" />
 
 ### ⌨️ Activity: Add instructions to your Copilot Space
 
@@ -68,8 +68,8 @@ Proceed to the activities below to execute each action.
    > - Stored in `.github/ISSUE_TEMPLATE/`
    > ```
 
-<img width="50%" height="50%" alt="Copilot Spaces Instructions" src="https://github.com/user-attachments/assets/5bfe36ad-b370-4f17-ace0-f7cd26ff7b3d" />
-<img width="50%" height="50%" alt="Copilot Spaces Instructions detail" src="https://github.com/user-attachments/assets/7fd63002-6835-4ddd-ad96-8b4d0a53e63a" />
+<img width="50%" height="50%" alt="Copilot Spaces Instructions" src="https://github.com/user-attachments/assets/547cdbf9-9238-42af-a06b-7bb168207ec2" />
+<img width="50%" height="50%" alt="Copilot Spaces Instructions detail" src="https://github.com/user-attachments/assets/628b8534-5f14-48ba-89dc-16eec79617ea" />
 
 ### ⌨️ Activity: Add your cloned repository as a source repository to your Copilot Space
 
@@ -81,9 +81,9 @@ Proceed to the activities below to execute each action.
 1. Select the `docs` folder
 1. Verify the repository appears in your sources list
 
-<img width="30%" height="30%" alt="Add sources" src="https://github.com/user-attachments/assets/b7d3e5d3-3093-48d9-b234-bfd8ff70edc4" />
-<img width="30%" height="30%" alt="Add sources repository" src="https://github.com/user-attachments/assets/71d12ea8-10e4-4c1e-9560-ed45ee82280e" />
-<img width="50%" height="50%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/16ace217-09cd-44d1-9a21-edfe69c4f0b0" />
+<img width="30%" height="30%" alt="Add sources" src="https://github.com/user-attachments/assets/05268c3f-5270-4e60-bc87-69fc27b1df72" />
+<img width="30%" height="30%" alt="Add sources repository" src="https://github.com/user-attachments/assets/d8b38b95-98ca-44a3-b7b4-d1ab4c12d348" />
+<img width="50%" height="50%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/3d14d37d-9b91-48c2-a7e4-374ee64f73fa" />
 
 ### ⌨️ Activity: Create an issue in the repository for a README for OctoAcme Project Management Docs
 
@@ -103,11 +103,11 @@ Proceed to the activities below to execute each action.
 
 You can then add this issue to your repository by clicking the **Create** button.
 
-<img width="50%" height="50%" alt="conversation to create an issue" src="https://github.com/user-attachments/assets/bc624b52-a8b9-4a85-91b5-e356d1ccf9a3" />
+<img width="50%" height="50%" alt="conversation to create an issue" src="https://github.com/user-attachments/assets/cc152bc6-d189-4143-8eea-719f70e43a6f" />
 
 You can copy or open the link in a new tab to see the newly created issue
 
-<img width="50%" height="50%" alt="cs-9" src="https://github.com/user-attachments/assets/6bb2af7e-a6db-40a9-8d09-da08cc9cdc32" />
+<img width="50%" height="50%" alt="cs-9" src="https://github.com/user-attachments/assets/a174f9cc-6c28-4698-a9b0-9e61e711413a" />
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
