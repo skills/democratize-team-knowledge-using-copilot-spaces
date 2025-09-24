@@ -34,7 +34,8 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 - Open your Copilot Space you created in the previous step. https://github.com/copilot/spaces or by clicking the name <img width="50%" height="50%" alt="link to Copilot Space" src="https://github.com/user-attachments/assets/a636e078-64ea-4a0f-9760-3a26a6c464a8" />
 - Start a new conversation in the Copilot Space and prompt the following:
 
-<img width="50%" height="50%" alt="Copilot Spaces new conversation" src="https://github.com/user-attachments/assets/d0947ede-5957-4e90-87f7-918536e6d233" />
+<img width="50%" height="50%" alt="Copilot Spaces new conversation" src="https://github.com/user-attachments/assets/223631aa-da64-4437-96f2-32a2545f183f" />
+<img width="70%" height="70%" alt="Copilot Space conversation OctoAcme project management process docs summary" src="https://github.com/user-attachments/assets/342605be-4b36-48b2-b54f-18ae85f16bb8" />
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
@@ -43,7 +44,7 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
    > Focus on key workflows, personas/roles, communication strategies, and quality assurance practices.
    > ```
 
-<img width="70%" height="70%" alt="Copilot Space conversation OctoAcme project management process docs summary" src="https://github.com/user-attachments/assets/bbebe092-1ef3-4a08-9edd-afbfba614a76" />
+<img width="50%" height="50%" alt="Copilot response with the summary" src="https://github.com/user-attachments/assets/26a54642-a14b-498d-a195-d1ffd45e5679" />
 
 ### ⌨️ Activity: Attach an issue and create a pull request for the Copilot coding agent
 
@@ -58,7 +59,7 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 > - Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-copilot-agent tool`
 > - There is a known issue for pull requests that you may get following response
 
-<img width="50%" height="50%" alt="pull request error" src="https://github.com/user-attachments/assets/284b3fd1-7079-4bfd-90b9-1d8245b12cbc" />
+<img width="50%" height="50%" alt="pull request error" src="https://github.com/user-attachments/assets/f1c44603-2b01-4c33-b910-253ce84edbc6" />
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
@@ -67,26 +68,26 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
    > - The README should also contain a brief overview of the project management processes used by OctoAcme based on the summary we just created.
    > ```
 
-<img width="80%" height="80%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/472c4014-6464-4914-abd7-66e3f78b9e9b" />
+<img width="80%" height="80%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/521ffed3-c5ef-4c14-a99d-e85d366b3fed" />
 
 Select **Allow**
 
-<img width="50%" height="50%" alt="Copilot coding agent allow" src="https://github.com/user-attachments/assets/15e9b2c1-39e3-40f2-b90f-3cfdb2bb2604" />
+<img width="50%" height="50%" alt="Copilot coding agent allow" src="https://github.com/user-attachments/assets/b0c92c04-d12b-4c5e-b682-33643b90ee11" />
 
 You should have gotten a notification that Copilot coding agent is working on your pull request.
 
 Go to your repository and click **Pull requests** and you should see something similar to the following:
 
-<img width="70%" height="70%" alt="pull requests" src="https://github.com/user-attachments/assets/3be45204-0a27-4ce2-ad22-7cde9c9abb03" />
+<img width="70%" height="70%" alt="pull requests" src="https://github.com/user-attachments/assets/d30685c3-046b-4c6e-8254-4bcb8aa959b5" />
 
 - It takes approximately 5 to 15 minutes for the coding agent to work on the issue and the **[WIP]** will be removed from the title.
 - If you would like to see how the Copilot coding agent is progressing you can click the **View session** button and interact in the session.
 - Once you are satisfied with the content **Submit review**, leave a comment (optional), click **Approve**, then **Submit review**
 - At the bottom select **Ready for review** and then **Merge pull request** and **Confirm merge**
 
-<img width="70%" height="70%" alt="Add review" src="https://github.com/user-attachments/assets/0a0010da-2456-4055-86b3-35a30b8371e7" />
+<img width="70%" height="70%" alt="Add review" src="https://github.com/user-attachments/assets/ea460dc3-a86d-467b-8469-bd9244b915ea" />
 
-<img width="50%" height="50%" alt="Submit review" src="https://github.com/user-attachments/assets/b6636398-b0b9-437e-9b64-f11286678402" />
+<img width="50%" height="50%" alt="Submit review" src="https://github.com/user-attachments/assets/15042891-c8fa-4acc-a25d-c588cf6a3ffe" />
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
