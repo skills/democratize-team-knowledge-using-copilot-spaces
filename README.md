@@ -1,12 +1,19 @@
 # Democratize Tribal Knowledge Using Copilot Spaces
 
-_Learn how to use GitHub Copilot Spaces to centralize and democratize project management knowledge within your team_
+- Centralize scattered project management knowledge in Copilot Spaces
+- Convert tacit tribal insights into searchable, versioned artifacts
+- Give all team members equal access to processes, decisions, and rationale
+- Connect a repository as a structured knowledge source
+- Extract, refine, and standardize workflows collaboratively
+- Feed validated improvements back into living documentation
+- Accelerate onboarding and reduce single-person dependency risk
+- Enable consistent, repeatable project execution
 
 ## Welcome
 
 - **Who is this for**: Project managers, team leads, and developers looking to streamline knowledge sharing
 - **What you'll learn**: How to leverage GitHub Copilot Spaces to capture, organize, and improve project management processes
-- **What you'll build**: A comprehensive knowledge management system using Copilot Spaces with custom chat modes
+- **What you'll build**: A comprehensive knowledge management system using Copilot Spaces for team collaboration
 - **Prerequisites**:
   - Basic familiarity with GitHub repositories
   - Access to GitHub Copilot Spaces
@@ -14,18 +21,19 @@ _Learn how to use GitHub Copilot Spaces to centralize and democratize project ma
 
 - **How long**: This exercise takes less than 30 minutes to complete.
 
-In this exercise, you will:
+In this exercise, you will use Copilot Spaces:
 
 1. Add a repository as a source to your Copilot Space
-2. Explore and summarize project management process documentation
-3. Create and use custom chat modes for deep process analysis
-4. Update repository documentation based on insights discovered
+1. Add instructions to your Copilot Space
+1. Create issues in the repository using Copilot Spaces
+1. Explore and summarize project management process documentation
+1. Update repository documentation based on insights and gaps discovered
 
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=arilivigni&template_name=democratize-tribal-knowledge-using-copilot-spaces&owner=%40me&name=democratize-tribal-knowledge-using-copilot-spaces&description=Exercise:+Democratize+Tribal+Knowledge+Using+Copilot+Spaces&visibility=public)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=arilivigni&template_name=democratize-tribal-knowledge-using-copilot-spaces&owner=%40me&name=skills-democratize-tribal-knowledge-using-copilot-spaces&description=Exercise:+Democratize+Tribal+Knowledge+Using+Copilot+Spaces&visibility=public)
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
