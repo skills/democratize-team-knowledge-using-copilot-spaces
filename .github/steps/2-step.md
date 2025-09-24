@@ -11,7 +11,7 @@ In this step you will:
 
 While reading, note:
 
-- End‑to‑end workflow stages and handoffs
+- End-to-end workflow stages and handoffs
 - Defined roles/personas and responsibilities
 - Decision / escalation points
 - Communication cadences and channels
