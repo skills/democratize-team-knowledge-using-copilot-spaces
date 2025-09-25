@@ -50,14 +50,15 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 - In this activity we will attach the issue you created in the previous step for adding a README
 - Use the previous summary we created and create a pull request to address the issue
 - This will assign the issue to the coding agent to create a pull request with the README file in the `docs/` folder
-- Copy and paste the url for the issue that we created in the previous step. 
-  example. https://github.com/octocat/skills-democratize-tribal-knowledge-using-copilot-spaces/issues/2
+- Copy and paste the url for the issue that we created in the previous step.</br>
+  Example: https://github.com/octocat/skills-democratize-tribal-knowledge-using-copilot-spaces/issues/2
 
 > [!IMPORTANT]
 > - In all conversations with Copilot Spaces, always be aware of the following:
 > - Use the **GPT-4.1** model
 > - Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-copilot-agent tool`
-> - There is a known issue for pull requests that you may get following response
+> - There is a small known issue for pull requests that you may get following response,
+>   but the coding agent will still create the pull request
 
 <img width="50%" height="50%" alt="pull request error" src="https://github.com/user-attachments/assets/f1c44603-2b01-4c33-b910-253ce84edbc6" />
 
@@ -93,7 +94,8 @@ Go to your repository and click **Pull requests** and you should see something s
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
-- Make sure issue is attached by pasting the link to the issue ex. https://github.com/octocat/skills-democratize-tribal-knowledge-using-copilot-spaces/issues/2
+- Make sure issue is attached by pasting the link to the issue </br>
+  Example: https://github.com/octocat/skills-democratize-tribal-knowledge-using-copilot-spaces/issues/2
 - Make sure you have merge permissions to the repository
 
 </details>
