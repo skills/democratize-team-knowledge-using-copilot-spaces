@@ -78,7 +78,7 @@ Add a description: "Centralizing and democratizing project management knowledge 
 
 1. In your newly created Copilot Space, look for **Add sources** button
 1. Add this exercise repository as a source:
-   - Start to type the name of your repository `/{{full_repo_name}}` and select it from the dropdown
+   - Start to type the name of your repository `{{full_repo_name}}` and select it from the dropdown
    - This gives Copilot access to the project management documentation and processes in the repository
 1. Select the `docs` folder
 1. Verify the repository appears in your sources list
