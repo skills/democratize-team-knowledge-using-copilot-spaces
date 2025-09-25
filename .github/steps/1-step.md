@@ -35,7 +35,7 @@ Proceed to the activities below to execute each action.
 
 1. Navigate to GitHub Copilot Spaces https://github.com/copilot/spaces (ensure you have access to this feature)
 1. Click **Create Space** button
-1. Name your Space: ex. _"OctoAcme Project Management Hub"_
+1. Name your Space: example: _"OctoAcme Project Management Hub"_
 1. Click **Save**
 
 <img width="50%" height="50%" alt="Copilot Space Create Space" src="https://github.com/user-attachments/assets/0dcc4d78-1ee0-43cf-85c8-c1d0137aceb0" />
@@ -80,12 +80,12 @@ Add a description: "Centralizing and democratizing project management knowledge 
 1. Add this exercise repository as a source:
    - Start to type the name of your repository `{{full_repo_name}}` and select it from the dropdown
    - This gives Copilot access to the project management documentation and processes in the repository
-1. Select the `docs` folder
+1. Select the `docs` and the `.github/ISSUE_TEMPLATE` folders
 1. Verify the repository appears in your sources list
 
 <img width="30%" height="30%" alt="Add sources" src="https://github.com/user-attachments/assets/05268c3f-5270-4e60-bc87-69fc27b1df72" />
 <img width="30%" height="30%" alt="Add sources repository" src="https://github.com/user-attachments/assets/d8b38b95-98ca-44a3-b7b4-d1ab4c12d348" />
-<img width="50%" height="50%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/3d14d37d-9b91-48c2-a7e4-374ee64f73fa" />
+<img width="50%" height="50%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/8340a69c-0d05-49df-92e7-bf929b57443b" />
 
 ### ⌨️ Activity: Create an issue in the repository for a README for OctoAcme Project Management Docs
 
