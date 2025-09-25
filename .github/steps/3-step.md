@@ -60,7 +60,7 @@ In the same Copilot Space conversation do the following:
 - This will assign the issue to the coding agent to create a pull request with an update to our personas/roles document in the `docs/` folder
 - Copy and paste the url for the issue that we created in the previous activity. </br>
   Issues: [https://github.com/{{full_repo_name}}/issues](https://github.com/{{full_repo_name}}/issues) </br>
-  Example: `https://github.com/{{full_repo_name}}/issues/3` (check that the issue number matches)
+  Example: `@{{full_repo_name}}/issues/3` (check that the issue number matches)
 
 > [!IMPORTANT]
 > - In all conversations with Copilot Spaces, always be aware of the following:
