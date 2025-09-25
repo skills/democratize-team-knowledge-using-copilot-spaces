@@ -72,10 +72,11 @@ jobs:
       - name: Check for keyphrase in README.md
         id: check-for-keyphrase
         continue-on-error: true
-        uses: skills/action-keyphrase-checker@v1
+        uses: skills/action-keyphrase-checker@v1.1.0
         with:
           text-file: README.md
           keyphrase: 'roles'
+          case-sensitive: false
 
       - name: Update comment - step results
         uses: GrantBirki/comment@v2.1.1
