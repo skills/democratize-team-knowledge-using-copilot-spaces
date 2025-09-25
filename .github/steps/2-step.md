@@ -58,8 +58,10 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 > - In all conversations with Copilot Spaces, always be aware of the following:
 > - Use the **GPT-4.1** model
 > - Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-copilot-agent tool`
-> - There is a small known issue for pull requests that you may get following response.</br>
->   **The coding agent will still create the pull request**
+> - There is a known issue for pull requests that you may get following response.</br>
+> - There is a chance when you get this error you the coding agent may not create pull request
+> - If 5 minutes passes by and the pull request is not created
+> - Please open a **new Copilot Space conversation** and try this activity again
 
 <img width="50%" height="50%" alt="pull request error" src="https://github.com/user-attachments/assets/f1c44603-2b01-4c33-b910-253ce84edbc6" />
 
