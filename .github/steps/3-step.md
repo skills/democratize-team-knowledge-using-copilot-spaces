@@ -65,7 +65,8 @@ In the same Copilot Space conversation do the following:
 > - In all conversations with Copilot Spaces, always be aware of the following:
 > - Use the **GPT-4.1** model
 > - Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-copilot-agent tool`
-> - There is a known issue for pull requests that you may get following response
+> - There is a small known issue for pull requests that you may get following response.</br>
+>   **The coding agent will still create the pull request**
 
 <img width="50%" height="50%" alt="pull request error" src="https://github.com/user-attachments/assets/45bffd57-4608-4458-9282-4ae78578a2fe" />
 
