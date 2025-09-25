@@ -19,7 +19,7 @@ env:
 jobs:
   find_exercise:
     name: Find Exercise Issue
-    uses: skills/exercise-toolkit/.github/workflows/find-exercise-issue.yml@v0.7.0
+    uses: skills/exercise-toolkit/.github/workflows/find-exercise-issue.yml@v0.7.1
 
   # This job is optional. We often call it a "grading job". If the step is not graded, remove it.
   check_step_work:
@@ -39,7 +39,7 @@ jobs:
         with:
           repository: skills/exercise-toolkit
           path: exercise-toolkit
-          ref: v0.7.0
+          ref: v0.7.1
 
       - name: Find last comment
         id: find-last-comment
@@ -64,7 +64,7 @@ jobs:
       - name: Check if README file exists
         id: check-file-exists
         continue-on-error: true
-        uses: skills/exercise-toolkit/actions/file-exists@v0.7.0
+        uses: skills/exercise-toolkit/actions/file-exists@v0.7.1
         with:
           file: docs/README.md
 
@@ -119,7 +119,7 @@ jobs:
         with:
           repository: skills/exercise-toolkit
           path: exercise-toolkit
-          ref: v0.7.0
+          ref: v0.7.1
 
       - name: Create comment - step finished
         uses: GrantBirki/comment@v2.1.1
