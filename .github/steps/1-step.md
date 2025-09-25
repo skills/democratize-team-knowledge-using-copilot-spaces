@@ -36,10 +36,13 @@ Proceed to the activities below to execute each action.
 1. Navigate to GitHub Copilot Spaces https://github.com/copilot/spaces (ensure you have access to this feature)
 1. Click **Create Space** button
 1. Name your Space: ex. _"OctoAcme Project Management Hub"_
-1. Add a description: "Centralizing and democratizing project management knowledge for the OctoAcme organization"
 1. Click **Save**
 
-<img width="50%" height="50%" alt="Copilot Space Create Space" src="https://github.com/user-attachments/assets/a6d41367-fed2-442e-8618-7b2a5a7b912c" />
+<img width="50%" height="50%" alt="Copilot Space Create Space" src="https://github.com/user-attachments/assets/0dcc4d78-1ee0-43cf-85c8-c1d0137aceb0" />
+
+Add a description: "Centralizing and democratizing project management knowledge for the OctoAcme organization"
+
+<img width="50%" height="50%" alt="Copilot Spaces description" src="https://github.com/user-attachments/assets/5826b4bc-a40b-4705-b36a-66b234c2c07d" />
 
 ### ⌨️ Activity: Add instructions to your Copilot Space
 
@@ -75,8 +78,7 @@ Proceed to the activities below to execute each action.
 
 1. In your newly created Copilot Space, look for **Add sources** button
 1. Add this exercise repository as a source:
-   - Start to type your <your-handle>/<repo-name> and select it from the dropdown
-   For example: `octocat/skills-democratize-tribal-knowledge-using-copilot-spaces`
+   - Start to type the name of your repository `/{{full_repo_name}}` and select it from the dropdown
    - This gives Copilot access to the project management documentation and processes in the repository
 1. Select the `docs` folder
 1. Verify the repository appears in your sources list
