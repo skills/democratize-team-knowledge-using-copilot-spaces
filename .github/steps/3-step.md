@@ -56,18 +56,22 @@ _Use the following prompt in the current Copilot Space conversation:_
 
 In the same Copilot Space conversation do the following:
 
-- In this activity we will attach the issue you created in the previous activity 
-- This will assign the issue to the coding agent to create a pull request with an update to our personas/roles document in the `docs/` folder
-- Copy and paste the url for the issue that we created in the previous activity. </br>
+1. In this activity we will attach the issue you created in the previous activity 
+2. This will assign the issue to the coding agent to create a pull request with an update to our personas/roles document in the `docs/` folder
+3. Copy and paste the url for the issue that we created in the previous activity. </br>
   Issues: [https://github.com/{{full_repo_name}}/issues](https://github.com/{{full_repo_name}}/issues) </br>
   Example: `@{{full_repo_name}}/issues/3` (check that the issue number matches)
+
+<img width="50%" height="50%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/67086db2-0572-45cc-aed0-408c99656cc7" />
 
 > [!IMPORTANT]
 > - In all conversations with Copilot Spaces, always be aware of the following:
 > - Use the **GPT-4.1** model
 > - Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-copilot-agent tool`
-> - There is a small known issue for pull requests that you may get following response.</br>
->   **The coding agent will still create the pull request**
+> - There is a known issue for pull requests that you may get following response.</br>
+> - There is a chance when you get this error you the coding agent may not create pull request
+> - If 5 minutes passes by and the pull request is not created
+> - Please open a **new Copilot Space conversation** and try this activity again
 
 <img width="50%" height="50%" alt="pull request error" src="https://github.com/user-attachments/assets/45bffd57-4608-4458-9282-4ae78578a2fe" />
 
@@ -79,7 +83,6 @@ In the same Copilot Space conversation do the following:
    > - The improvements should address gaps or inefficiencies identified in the project management documentation.
    > - The pull request should include updates to existing docs or new templates/checklists as needed.
    > ```
-<img width="50%" height="50%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/67086db2-0572-45cc-aed0-408c99656cc7" />
 
 Select **Allow**
 
