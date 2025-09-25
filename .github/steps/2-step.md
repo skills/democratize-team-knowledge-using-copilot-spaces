@@ -51,7 +51,8 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 - Use the previous summary we created and create a pull request to address the issue
 - This will assign the issue to the coding agent to create a pull request with the README file in the `docs/` folder
 - Copy and paste the url for the issue that we created in the previous step.</br>
-  Example: `{{full_repo_name}}/issues/2`
+  Issues: `https://github.com/{{full_repo_name}}/issues` </br>
+  Example: `{{full_repo_name}}/issues/2` (check that the issue number matches)
 
 > [!IMPORTANT]
 > - In all conversations with Copilot Spaces, always be aware of the following:
