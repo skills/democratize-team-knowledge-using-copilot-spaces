@@ -29,7 +29,7 @@ _Use the following prompt in a new Copilot Space conversation:_
 
 <img width="50%" height="50%" alt="Attach" src="https://github.com/user-attachments/assets/2a447ff9-76d7-462f-9292-4663c8dc0fc9" />
 
-<img width="50%" height="50%" alt="Attach files" src="https://github.com/user-attachments/assets/6ac6e33d-b333-424f-b431-e3feb7022b841" />
+<img width="30%" height="30%" alt="Attach files" src="https://github.com/user-attachments/assets/6ac6e33d-b333-424f-b431-e3feb7022b841" />
 
 <img width="50%" height="50%" alt="Attach issue template" src="https://github.com/user-attachments/assets/c02537ad-173e-430d-9e24-6a95763b8f30" />
 
