@@ -135,6 +135,9 @@ jobs:
           repository: ${{ env.ISSUE_REPOSITORY }}
           issue-number: ${{ env.ISSUE_NUMBER }}
           file: ${{ env.STEP_3_FILE }}
+          vars: |
+            login: ${{ github.actor }}
+            full_repo_name: ${{ github.repository }}
 
       - name: Create comment - watching for progress
         uses: GrantBirki/comment@v2.1.1
