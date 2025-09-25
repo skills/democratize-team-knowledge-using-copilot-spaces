@@ -30,11 +30,9 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 
 ### ⌨️ Activity: Explore the project management process docs and Summarize in your Copilot Space
 
-- Generate a summary should be 3-4 paragraphs covering the main processes OctoAcme uses for project management.
-- Open your Copilot Space you created in the previous step. https://github.com/copilot/spaces or by clicking the name <img width="50%" height="50%" alt="link to Copilot Space" src="https://github.com/user-attachments/assets/a636e078-64ea-4a0f-9760-3a26a6c464a8" />
+- Generate a summary. Should be 3-4 paragraphs covering the main processes OctoAcme uses for project management.
+- Open your Copilot Space you created in the previous step. https://github.com/copilot/spaces or by clicking the name <img width="50%" height="50%" alt="link to Copilot Space" src="https://github.com/user-attachments/assets/13534299-c764-4d20-9760-88bd7dac7cff" />
 - Start a new conversation in the Copilot Space and prompt the following:
-
-<img width="50%" height="50%" alt="Copilot Spaces new conversation" src="https://github.com/user-attachments/assets/223631aa-da64-4437-96f2-32a2545f183f" />
 <img width="70%" height="70%" alt="Copilot Space conversation OctoAcme project management process docs summary" src="https://github.com/user-attachments/assets/342605be-4b36-48b2-b54f-18ae85f16bb8" />
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
@@ -52,7 +50,8 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 - In this activity we will attach the issue you created in the previous step for adding a README
 - Use the previous summary we created and create a pull request to address the issue
 - This will assign the issue to the coding agent to create a pull request with the README file in the `docs/` folder
-- Copy and paste the url for the issue that we created in the previous step. ex. https://github.com/octocat/skills-democratize-tribal-knowledge-using-copilot-spaces/issues/2
+- Copy and paste the url for the issue that we created in the previous step. 
+  example. https://github.com/octocat/skills-democratize-tribal-knowledge-using-copilot-spaces/issues/2
 
 > [!IMPORTANT]
 > - In all conversations with Copilot Spaces, always be aware of the following:
