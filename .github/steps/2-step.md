@@ -1,4 +1,4 @@
-## Step 2: Explore & Summarize Project Management Processes and Create README
+## Step 2: Explore & summarize project management processes and create a README
 
 In this step you will:
 
