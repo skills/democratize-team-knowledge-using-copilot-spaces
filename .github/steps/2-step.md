@@ -65,6 +65,8 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 
 <img width="50%" height="50%" alt="pull request error" src="https://github.com/user-attachments/assets/f1c44603-2b01-4c33-b910-253ce84edbc6" />
 
+<img width="80%" height="80%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/521ffed3-c5ef-4c14-a99d-e85d366b3fed" /> </br>
+
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
@@ -73,7 +75,7 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
    >   used by OctoAcme based on the summary we just created.
    > ```
 
-<img width="80%" height="80%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/521ffed3-c5ef-4c14-a99d-e85d366b3fed" />
+
 
 Select **Allow**
 
