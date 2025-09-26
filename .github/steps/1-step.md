@@ -1,4 +1,4 @@
-## Step 1: Create and Prime Your Copilot Space
+## Step 1: Create and prime your Copilot Space
 
 In this step you will establish a Copilot Space and give it the minimum context it needs to act as a project management knowledge hub for OctoAcme.
 
