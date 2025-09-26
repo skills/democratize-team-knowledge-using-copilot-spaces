@@ -82,6 +82,8 @@ In the same Copilot Space conversation do the following:
    >   based on the analysis we did earlier.
    > - The improvements should address gaps or inefficiencies identified in the project management documentation.
    > - The pull request should include updates to existing docs or new templates/checklists as needed.
+   > - All documents should be in the `docs/` folder
+   > - Assign me as a reviewer
    > ```
 
 Select **Allow**
