@@ -54,6 +54,8 @@ Add a description:
 
 - In your newly created Copilot Space, look for the **Instructions** button
 - Add the following instructions to provide context about the repository and its purpose
+      <img width="50%" height="50%" alt="Copilot Spaces Instructions" src="https://github.com/user-attachments/assets/547cdbf9-9238-42af-a06b-7bb168207ec2" />
+      <img width="50%" height="50%" alt="Copilot Spaces Instructions detail" src="https://github.com/user-attachments/assets/628b8534-5f14-48ba-89dc-16eec79617ea" />
 - Click **Save**
 
    > ```markdown
@@ -77,9 +79,6 @@ Add a description:
    > - Stored in `.github/ISSUE_TEMPLATE/`
    > ```
 
-<img width="50%" height="50%" alt="Copilot Spaces Instructions" src="https://github.com/user-attachments/assets/547cdbf9-9238-42af-a06b-7bb168207ec2" />
-<img width="50%" height="50%" alt="Copilot Spaces Instructions detail" src="https://github.com/user-attachments/assets/628b8534-5f14-48ba-89dc-16eec79617ea" />
-
 ### ⌨️ Activity: Add your cloned repository as a source repository to your Copilot Space
 
 1. In your newly created Copilot Space, look for **Add sources** button
@@ -95,9 +94,9 @@ Add a description:
 1. Select the `docs` and the `.github/ISSUE_TEMPLATE` folders
 1. Verify the repository appears in your sources list
 
-<img width="30%" height="30%" alt="Add sources" src="https://github.com/user-attachments/assets/05268c3f-5270-4e60-bc87-69fc27b1df72" />
-<img width="30%" height="30%" alt="Add sources repository" src="https://github.com/user-attachments/assets/d8b38b95-98ca-44a3-b7b4-d1ab4c12d348" />
-<img width="50%" height="50%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/8340a69c-0d05-49df-92e7-bf929b57443b" />
+      <img width="30%" height="30%" alt="Add sources" src="https://github.com/user-attachments/assets/05268c3f-5270-4e60-bc87-69fc27b1df72" />
+      <img width="30%" height="30%" alt="Add sources repository" src="https://github.com/user-attachments/assets/d8b38b95-98ca-44a3-b7b4-d1ab4c12d348" />
+      <img width="50%" height="50%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/8340a69c-0d05-49df-92e7-bf929b57443b" />
 
 ### ⌨️ Activity: Create an issue in the repository for a README for OctoAcme Project Management Docs
 
