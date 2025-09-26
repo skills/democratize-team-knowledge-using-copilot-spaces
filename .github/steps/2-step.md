@@ -73,9 +73,9 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
    > - Using the github-coding-agent tool create a pull request based on the attached issue.
    > - The README should also contain a brief overview of the project management processes
    >   used by OctoAcme based on the summary we just created.
+   > - The README should be in the `docs/` folder
+   > - Assign me as a reviwer
    > ```
-
-
 
 Select **Allow**
 
