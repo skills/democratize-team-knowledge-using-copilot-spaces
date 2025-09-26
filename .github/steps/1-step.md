@@ -13,7 +13,7 @@ In this step you will establish a Copilot Space and give it the minimum context 
 ### Copilot usage requirements (apply to every conversation here)
 
 - Model: **GPT-4.1**
-- For pull request draft generation: include the phrase `Using the github-copilot-agent tool` in your prompt (PR drafts use the GHCP coding agent).
+- For pull request draft generation: include the phrase `Using the github-coding-agent tool` in your prompt (PR drafts use the GHCP coding agent).
 - Keep prompts explicit about desired outputs (issues, summaries, links).
 
 ### Readiness checklist before proceeding
@@ -29,18 +29,24 @@ Proceed to the activities below to execute each action.
 > [!IMPORTANT]
 > In all conversations with Copilot Spaces, always be aware of the following:
 > Use the **GPT-4.1** model
-> Pull request drafts utilizes **GHCP coding agent**, therefore your prompt should contain `Using the github-copilot-agent tool`
+> Pull request drafts utilizes **GHCP coding agent**, therefore your prompt should contain `Using the github-coding-agent tool`
 
 ### ⌨️ Activity: Create your OctoAcme Project Management Hub Copilot Space
 
 1. Navigate to GitHub Copilot Spaces https://github.com/copilot/spaces (ensure you have access to this feature)
 1. Click **Create Space** button
-1. Name your Space: example: _"OctoAcme Project Management Hub"_
+1. Name your Space:
+      > ```text
+      > OctoAcme Project Management Hub
+      > ```
 1. Click **Save**
 
 <img width="50%" height="50%" alt="Copilot Space Create Space" src="https://github.com/user-attachments/assets/0dcc4d78-1ee0-43cf-85c8-c1d0137aceb0" />
 
-Add a description: "Centralizing and democratizing project management knowledge for the OctoAcme organization"
+Add a description: 
+   > ```text
+   > Centralizing and democratizing project management knowledge for the OctoAcme organization    
+   > ```
 
 <img width="50%" height="50%" alt="Copilot Spaces description" src="https://github.com/user-attachments/assets/5826b4bc-a40b-4705-b36a-66b234c2c07d" />
 
@@ -78,7 +84,13 @@ Add a description: "Centralizing and democratizing project management knowledge 
 
 1. In your newly created Copilot Space, look for **Add sources** button
 1. Add this exercise repository as a source:
-   - Start to type the name of your repository `{{full_repo_name}}` and select it from the dropdown
+   - Copy and paste your GitHub repository for this exercise called out below. 
+   - You can also type the name in the search and it will come up as well.
+   
+      > ```text
+      > {{full_repo_name}}
+      > ```
+      
    - This gives Copilot access to the project management documentation and processes in the repository
 1. Select the `docs` and the `.github/ISSUE_TEMPLATE` folders
 1. Verify the repository appears in your sources list
