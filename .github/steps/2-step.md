@@ -57,7 +57,7 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 > [!IMPORTANT]
 > - In all conversations with Copilot Spaces, always be aware of the following:
 > - Use the **GPT-4.1** model
-> - Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-copilot-agent tool`
+> - Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-coding-agent tool`
 > - There is a known issue for pull requests that you may get following response.</br>
 > - There is a chance when you get this error you the coding agent may not create pull request
 > - If 5 minutes passes by and the pull request is not created
@@ -68,7 +68,7 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
-   > - Using the github-copilot-agent tool create a pull request based on the attached issue.
+   > - Using the github-coding-agent tool create a pull request based on the attached issue.
    > - The README should also contain a brief overview of the project management processes
    >   used by OctoAcme based on the summary we just created.
    > ```
