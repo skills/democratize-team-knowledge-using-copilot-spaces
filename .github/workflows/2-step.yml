@@ -76,7 +76,7 @@ jobs:
         continue-on-error: true
         uses: skills/action-keyphrase-checker@v1.1.0
         with:
-          text-file: README.md
+          text-file: docs/README.md
           keyphrase: 'roles'
           case-sensitive: false
 
