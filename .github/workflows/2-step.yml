@@ -93,7 +93,7 @@ jobs:
             results_table:
               - description: "Checked if README.md file exists"
                 passed: ${{ steps.check-file-exists.outcome == 'success' }}
-              - description: "Checked for Installation guide in README.md"
+              - description: "Checked for roles in README.md"
                 passed: ${{ steps.check-for-keyphrase.outcome == 'success' }}
 
       # Add more checks as needed
