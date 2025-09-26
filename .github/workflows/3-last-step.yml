@@ -6,6 +6,8 @@ on:
       - main
     types:
       - closed
+    paths:
+      - 'docs/**' 
 
 permissions:
   contents: write
