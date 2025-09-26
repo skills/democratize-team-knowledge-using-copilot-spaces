@@ -3,7 +3,7 @@
 In this step you will add content based on your analysis by:
 
 1. Creating an issue and attaching an issue template (expanding personas/roles in project management processes).
-2. Creating and attaching a pull request that implements the improvements (using the github-copilot-agent tool) by updating or adding documentation/templates.
+2. Creating and attaching a pull request that implements the improvements (using the github-coding-agent tool) by updating or adding documentation/templates.
 
 These two activities embody an iterative improvement loop: identify a gap (issue), then implement and document the change (pull request), keeping traceability inside the Copilot Space conversation.
 
@@ -67,7 +67,7 @@ In the same Copilot Space conversation do the following:
 > [!IMPORTANT]
 > - In all conversations with Copilot Spaces, always be aware of the following:
 > - Use the **GPT-4.1** model
-> - Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-copilot-agent tool`
+> - Pull request drafts utilizes GHCP coding agent, therefore your prompt should contain `Using the github-coding-agent tool`
 > - There is a known issue for pull requests that you may get following response.</br>
 > - There is a chance when you get this error you the coding agent may not create pull request
 > - If 5 minutes passes by and the pull request is not created
@@ -78,7 +78,7 @@ In the same Copilot Space conversation do the following:
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
-   > - Using the github-copilot-agent tool create a pull request that implements process improvements
+   > - Using the github-coding-agent tool create a pull request that implements process improvements
    >   based on the analysis we did earlier.
    > - The improvements should address gaps or inefficiencies identified in the project management documentation.
    > - The pull request should include updates to existing docs or new templates/checklists as needed.
