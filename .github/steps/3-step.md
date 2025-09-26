@@ -1,4 +1,4 @@
-## Step 3: Add a new issue based on an issue template and a pull request for project management processes improvements
+## Step 3: Add a new issue using an issue template and a pull request for project management processes improvements
 
 In this step you will add content based on your analysis by:
 
