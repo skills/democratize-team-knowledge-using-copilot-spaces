@@ -53,9 +53,11 @@ Add a description:
 ### ⌨️ Activity: Add instructions to your Copilot Space
 
 - In your newly created Copilot Space, look for the **Instructions** button
-- Add the following instructions to provide context about the repository and its purpose
-      <img width="50%" height="50%" alt="Copilot Spaces Instructions" src="https://github.com/user-attachments/assets/547cdbf9-9238-42af-a06b-7bb168207ec2" />
+- Add the following instructions to provide context about the repository and its purpose</br>
+
+  <img width="50%" height="50%" alt="Copilot Spaces Instructions" src="https://github.com/user-attachments/assets/547cdbf9-9238-42af-a06b-7bb168207ec2" />
       <img width="50%" height="50%" alt="Copilot Spaces Instructions detail" src="https://github.com/user-attachments/assets/628b8534-5f14-48ba-89dc-16eec79617ea" />
+
 - Click **Save**
 
    > ```markdown
