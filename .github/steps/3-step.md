@@ -25,7 +25,14 @@ Effective process evolution follows a lightweight cycle:
 
 _Use the following prompt in a new Copilot Space conversation:_
 
-- Attach the issue template `.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml` to this new Copilot Space conversation.
+- Select your repository and issue template
+
+   > ```text
+   > @{{full_repo_name}}
+   > ```
+
+- Select the issue template to this new Copilot Space conversation. </br>
+   `.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml`
 
 <img width="50%" height="50%" alt="Attach" src="https://github.com/user-attachments/assets/2a447ff9-76d7-462f-9292-4663c8dc0fc9" />
 
@@ -45,6 +52,7 @@ _Use the following prompt in a new Copilot Space conversation:_
    >    that outlines the need to expand the defined roles and responsibilities in the project management documentation.
    > - Make sure the new roles/personas have descriptions of their responsibilities and how they interact with existing roles.
    > - The issue should detail why this is important, potential personas to add, and how it will improve project outcomes.
+   > - add to the process document `docs/octoacme-roles-and-personas.md`
    > ```
 <img width="50%" height="50%" alt="personas/roles issue draft" src="https://github.com/user-attachments/assets/b563450e-8304-426c-a9b2-70e460c8db84" />
 
@@ -59,9 +67,18 @@ In the same Copilot Space conversation do the following:
 1. In this activity we will attach the issue you created in the previous activity 
 2. This will assign the issue to the coding agent to create a pull request with an update to our personas/roles document in the `docs/` folder
 3. Copy and paste the url for the issue that we created in the previous activity. </br>
-  Issues: [https://github.com/{{full_repo_name}}/issues](https://github.com/{{full_repo_name}}/issues) </br>
-  Example: `@{{full_repo_name}}/issues/3` (check that the issue number matches)
 
+  > [!NOTE]
+  > - Check issues list that issue number matches what was created in the previous activity
+  > - Copy/paste the issue to the conversation
+  
+  Check issues list: [https://github.com/{{full_repo_name}}/issues](https://github.com/{{full_repo_name}}/issues) </br>
+
+  > ```text
+  > @{{full_repo_name}}/issues/3
+  > ```
+
+</br>
 <img width="50%" height="50%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/67086db2-0572-45cc-aed0-408c99656cc7" />
 
 > [!IMPORTANT]
