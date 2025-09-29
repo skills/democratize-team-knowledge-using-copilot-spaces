@@ -40,7 +40,7 @@ _Use the following prompt in a new Copilot Space conversation:_
 
 <img width="50%" height="50%" alt="Attach issue template" src="https://github.com/user-attachments/assets/c02537ad-173e-430d-9e24-6a95763b8f30" />
 
-<img width="60%" height="60%" alt="Attach issue template conversation" src="https://github.com/user-attachments/assets/5256e137-286d-4479-89bc-fc745021d4b1" />
+<img width="60%" height="60%" alt="Attach issue template conversation" src="https://github.com/user-attachments/assets/9a1a06b1-60fe-4794-a2a9-69d09aeab47f" />
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
@@ -54,7 +54,7 @@ _Use the following prompt in a new Copilot Space conversation:_
    > - The issue should detail why this is important, potential personas to add, and how it will improve project outcomes.
    > - add to the process document `docs/octoacme-roles-and-personas.md`
    > ```
-<img width="50%" height="50%" alt="personas/roles issue draft" src="https://github.com/user-attachments/assets/b563450e-8304-426c-a9b2-70e460c8db84" />
+<img width="50%" height="50%" alt="personas/roles issue draft" src="https://github.com/user-attachments/assets/d3700d45-a16a-482a-b2e0-5310f80162b6" />
 
 <img width="50%" height="50%" alt="personas/roles issue created" src="https://github.com/user-attachments/assets/c6e3f128-6254-4f0c-a1a6-f31b9d8b56b2" />
 
@@ -68,9 +68,9 @@ In the same Copilot Space conversation do the following:
 2. This will assign the issue to the coding agent to create a pull request with an update to our personas/roles document in the `docs/` folder
 3. Copy and paste the url for the issue that we created in the previous activity. </br>
 
-  > [!NOTE]
-  > - Check issues list that issue number matches what was created in the previous activity
-  > - Copy/paste the issue to the conversation
+> [!NOTE]
+> - Make sure the issue below matches the issue you want to attach
+> - Hit **\<SHIFT\> + \<ENTER\>** so you don't start Copilot working on the conversation
   
   Check issues list: [https://github.com/{{full_repo_name}}/issues](https://github.com/{{full_repo_name}}/issues) </br>
 
@@ -78,8 +78,7 @@ In the same Copilot Space conversation do the following:
   > @{{full_repo_name}}/issues/3
   > ```
 
-</br>
-<img width="50%" height="50%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/67086db2-0572-45cc-aed0-408c99656cc7" />
+<img width="50%" height="50%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/31955ab4-04f4-4316-811e-0c7234f02567" />
 
 > [!IMPORTANT]
 > - In all conversations with Copilot Spaces, always be aware of the following:
@@ -90,8 +89,6 @@ In the same Copilot Space conversation do the following:
 > - If 5 minutes passes by and the pull request is not created
 > - Please open a **new Copilot Space conversation** and try this activity again
 
-<img width="50%" height="50%" alt="pull request error" src="https://github.com/user-attachments/assets/45bffd57-4608-4458-9282-4ae78578a2fe" />
-
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
@@ -100,6 +97,7 @@ In the same Copilot Space conversation do the following:
    > - The improvements should address gaps or inefficiencies identified in the project management documentation.
    > - The pull request should include updates to existing docs or new templates/checklists as needed.
    > - All documents should be in the `docs/` folder
+   > - Add this pull request to the attached issue.
    > - Add {{login}} as a reviewer
    > ```
 
@@ -113,7 +111,7 @@ Go to your repository and click **Pull requests** and you should see something s
 
 <img width="70%" height="70%" alt="pull requests" src="https://github.com/user-attachments/assets/d30685c3-046b-4c6e-8254-4bcb8aa959b5" />
 
-- It takes approximately 5 to 15 minutes for the coding agent to work on the issue and the **[WIP]** will be removed from the title.
+- It takes approximately 5 to 15 minutes for the coding agent to work on the issue.
 - If you would like to see how the Copilot coding agent is progressing you can click the **View session** button and interact in the session.
 - Once you are satisfied with the content **Submit review**, leave a comment (optional), click **Approve**, then **Submit review**
 - At the bottom select **Ready for review** and then **Merge pull request** and **Confirm merge**
