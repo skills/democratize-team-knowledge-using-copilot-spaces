@@ -74,7 +74,7 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
    > - The README should also contain a brief overview of the project management processes
    >   used by OctoAcme based on the summary we just created.
    > - The README should be in the `docs/` folder
-   > - Add me as a reviewer
+   > - Add {{login}} as a reviewer
    > ```
 
 Select **Allow**
