@@ -72,7 +72,7 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 
 <img width="50%" height="50%" alt="pull request error" src="https://github.com/user-attachments/assets/f1c44603-2b01-4c33-b910-253ce84edbc6" />
 
-<img width="80%" height="80%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/521ffed3-c5ef-4c14-a99d-e85d366b3fed" /> </br>
+<img width="80%" height="80%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/aab825e3-53bb-40e7-adbd-efbae520293d" /> </br>
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
@@ -98,11 +98,14 @@ Go to your repository and click **Pull requests** and you should see something s
 - It takes approximately 5 to 15 minutes for the coding agent to work on the issue.
 - If you would like to see how the Copilot coding agent is progressing you can click the **View session** button and interact in the session.
 - Once you are satisfied with the content **Submit review**, leave a comment (optional), click **Approve**, then **Submit review**
-- At the bottom select **Ready for review** and then **Merge pull request** and **Confirm merge**
-
 <img width="70%" height="70%" alt="Add review" src="https://github.com/user-attachments/assets/ea460dc3-a86d-467b-8469-bd9244b915ea" />
 
 <img width="50%" height="50%" alt="Submit review" src="https://github.com/user-attachments/assets/15042891-c8fa-4acc-a25d-c588cf6a3ffe" />
+</br>
+- At the bottom select **Ready for review** and then **Merge pull request** and **Confirm merge**
+</br>
+<img width="50%" height="50%" alt="Ready for review" src="https://github.com/user-attachments/assets/2348378d-a597-404f-827d-4003d79055c0" />
+<img width="50%" height="50%" alt="Merge pull request" src="https://github.com/user-attachments/assets/fda15799-a123-4e6a-b32a-c7ec44db3418" />
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
