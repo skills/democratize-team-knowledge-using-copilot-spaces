@@ -25,10 +25,10 @@ Effective process evolution follows a lightweight cycle:
 
 _Use the following prompt in a new Copilot Space conversation:_
 
-- Select your repository and issue template
+- Select your repository
 
    > ```text
-   > @{{full_repo_name}}
+   > {{full_repo_name}}
    > ```
 
 - Select the issue template to this new Copilot Space conversation. </br>
