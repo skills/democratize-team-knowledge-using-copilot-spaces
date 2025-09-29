@@ -75,7 +75,7 @@ In the same Copilot Space conversation do the following:
   Check issues list: [https://github.com/{{full_repo_name}}/issues](https://github.com/{{full_repo_name}}/issues) </br>
 
   > ```text
-  > @{{full_repo_name}}/issues/3
+  > @{{full_repo_name}}/issues/4
   > ```
 
 <img width="50%" height="50%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/31955ab4-04f4-4316-811e-0c7234f02567" />
