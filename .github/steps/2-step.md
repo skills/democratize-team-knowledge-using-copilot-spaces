@@ -52,8 +52,15 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 - This will assign the issue to the coding agent to create a pull request with the README file in the `docs/` folder
 - Copy and paste the url for the issue that we created in the previous step.</br>
   Issues: [https://github.com/{{full_repo_name}}/issues](https://github.com/{{full_repo_name}}/issues) </br>
-  Example: `@{{full_repo_name}}/issues/2` (check that the issue number matches)
 
+> [!NOTE]
+> - Make sure the issue below matches the issue you want to attach
+> - Hit **<SHIFT> + <ENTER>** so you don't start Copilot working on the conversation
+  
+  >```text
+  > @{{full_repo_name}}/issues/2
+  > ```
+  
 > [!IMPORTANT]
 > - In all conversations with Copilot Spaces, always be aware of the following:
 > - Use the **GPT-4.1** model
@@ -74,6 +81,7 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
    > - The README should also contain a brief overview of the project management processes
    >   used by OctoAcme based on the summary we just created.
    > - The README should be in the `docs/` folder
+   > - Add this pull request to the attached issue.
    > - Add {{login}} as a reviewer
    > ```
 
@@ -87,7 +95,7 @@ Go to your repository and click **Pull requests** and you should see something s
 
 <img width="70%" height="70%" alt="pull requests" src="https://github.com/user-attachments/assets/d30685c3-046b-4c6e-8254-4bcb8aa959b5" />
 
-- It takes approximately 5 to 15 minutes for the coding agent to work on the issue and the **[WIP]** will be removed from the title.
+- It takes approximately 5 to 15 minutes for the coding agent to work on the issue.
 - If you would like to see how the Copilot coding agent is progressing you can click the **View session** button and interact in the session.
 - Once you are satisfied with the content **Submit review**, leave a comment (optional), click **Approve**, then **Submit review**
 - At the bottom select **Ready for review** and then **Merge pull request** and **Confirm merge**
