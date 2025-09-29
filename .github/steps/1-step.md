@@ -86,7 +86,7 @@ Add a description:
 1. In your newly created Copilot Space, look for **Add sources** button
 1. Add this exercise repository as a source:
    - Copy and paste your GitHub repository for this exercise called out below. 
-   - You can also type the name in the search and it will come up as well.
+   - You can also type the name in the search and it will come up as well or copy/paste the name below.
    
       > ```text
       > {{full_repo_name}}
