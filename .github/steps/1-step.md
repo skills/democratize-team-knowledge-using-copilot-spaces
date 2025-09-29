@@ -45,7 +45,7 @@ Proceed to the activities below to execute each action.
 
 Add a description: 
    > ```text
-   > Centralizing and democratizing project management knowledge for the OctoAcme organization    
+   > Centralizing and democratizing project management knowledge for the OctoAcme organization
    > ```
 
 <img width="50%" height="50%" alt="Copilot Spaces description" src="https://github.com/user-attachments/assets/5826b4bc-a40b-4705-b36a-66b234c2c07d" />
