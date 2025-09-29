@@ -55,7 +55,7 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 
 > [!NOTE]
 > - Make sure the issue below matches the issue you want to attach
-> - Hit **<SHIFT> + <ENTER>** so you don't start Copilot working on the conversation
+> - Hit **\<SHIFT\> + \<ENTER\>** so you don't start Copilot working on the conversation
   
   >```text
   > @{{full_repo_name}}/issues/2
