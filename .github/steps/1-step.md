@@ -24,7 +24,13 @@ In this step you will establish a Copilot Space and give it the minimum context 
 
 Proceed to the activities below to execute each action.
 
-[Use Copilot Spaces](https://docs.github.com/en/copilot/how-tos/provide-context/use-copilot-spaces/)
+### How does using Spaces affect my usage?
+Questions you submit in a space count as Copilot Chat requests.
+
+- If you're a Copilot Free user, this usage counts toward your monthly chat limit.
+- If you use Spaces with a premium model, this usage counts toward your premium usage quota. Every question you submit to a premium model counts as one premium request, multiplied by the model's multiplier. For information about the multipliers applied to each model, see [Requests in GitHub Copilot](https://docs.github.com/en/copilot/managing-copilot/understanding-and-managing-copilot-usage/understanding-and-managing-requests-in-copilot#model-multipliers).
+
+- [Use Copilot Spaces](https://docs.github.com/en/copilot/how-tos/provide-context/use-copilot-spaces/)
 
 > [!IMPORTANT]
 > In all conversations with Copilot Spaces, always be aware of the following:
