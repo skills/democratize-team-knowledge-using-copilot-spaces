@@ -1,8 +1,10 @@
-# Democratize Tribal Knowledge Using Copilot Spaces
+# Democratize team knowledge using Copilot Spaces
+
+Learn how Copilot Spaces can democratize team knowledge and streamline organizational processes.
 
 ## What are Copilot Spaces?
 
-- Copilot Spaces let you organize the context that Copilot uses to answer your questions. 
+- Copilot Spaces let you organize the context that Copilot uses to answer your questions.
 - Spaces can include repositories, code, pull requests, issues, free-text content like transcripts or notes, images, and file uploads.
 - You can ask Copilot questions grounded in that context, or share the space with your team to support collaboration and knowledge sharing.
 
@@ -10,15 +12,14 @@
 
 Whether you’re working solo or collaborating across a team, Spaces help you make Copilot more useful.
 
-#### With Copilot Spaces you can:
+#### With Copilot Spaces you can
 
 - Get more relevant, specific answers from Copilot.
 - Stay in flow by collecting what you need for a task in one place.
 - Reduce repeated questions by sharing knowledge with your team.
 - Support onboarding and reuse with self-service context that lives beyond chat history.
-- Your spaces stay in sync as your project evolves. 
-  - GitHub files and other GitHub-based sources added to a space are automatically updated as they change,</br>
-    making Copilot an evergreen expert in your project.
+- Your spaces stay in sync as your project evolves.
+  - GitHub files and other GitHub-based sources added to a space are automatically updated as they change, making Copilot an evergreen expert in your project.
 
 ## Welcome
 
@@ -26,6 +27,7 @@ Whether you’re working solo or collaborating across a team, Spaces help you ma
 - **What you'll learn**: How to leverage GitHub Copilot Spaces to capture, organize, and improve project management processes
 - **What you'll build**: A comprehensive knowledge management system using Copilot Spaces for team collaboration
 - **Prerequisites**:
+
   - Basic familiarity with GitHub repositories
   - Access to GitHub Copilot Spaces
   - Beginner-level project management concepts
@@ -44,10 +46,10 @@ In this exercise, you will use Copilot Spaces:
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=democratize-tribal-knowledge-using-copilot-spaces&owner=%40me&name=skills-democratize-tribal-knowledge-using-copilot-spaces&description=Exercise:+Democratize+Tribal+Knowledge+Using+Copilot+Spaces&visibility=public)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=democratize-team-knowledge-using-copilot-spaces&owner=%40me&name=skills-democratize-team-knowledge-using-copilot-spaces&description=Exercise:+Democratize+Team+Knowledge+Using+Copilot+Spaces&visibility=public)
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>Having trouble? 🤷</summary>
 
 When copying the exercise, we recommend the following settings:
 
