@@ -1,6 +1,6 @@
-# Democratize team knowledge using Copilot Spaces
+# Scale institutional knowledge using Copilot Spaces
 
-Learn how Copilot Spaces can democratize team knowledge and streamline organizational processes.
+Learn how Copilot Spaces can scale institutional knowledge and streamline organizational processes.
 
 ## What are Copilot Spaces?
 
