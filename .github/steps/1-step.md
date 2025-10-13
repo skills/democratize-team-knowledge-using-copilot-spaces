@@ -92,7 +92,7 @@ Add a description:
 
   <img width="30%" height="30%" alt="Add sources" src="https://github.com/user-attachments/assets/05268c3f-5270-4e60-bc87-69fc27b1df72" />
   <img width="30%" height="30%" alt="Add sources repository" src="https://github.com/user-attachments/assets/d8b38b95-98ca-44a3-b7b4-d1ab4c12d348" />
-  <img width="50%" height="50%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/8340a69c-0d05-49df-92e7-bf929b57443b" />
+  <img width="30%" height="30%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/8340a69c-0d05-49df-92e7-bf929b57443b" />
 
 ### ⌨️ Activity: Create an issue in the repository for a README for OctoAcme Project Management Docs
 
