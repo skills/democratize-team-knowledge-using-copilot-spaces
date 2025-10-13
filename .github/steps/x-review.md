@@ -1,6 +1,6 @@
 ## Review
 
-_Congratulations, you've completed this exercise and learned a lot about democratizing tribal knowledge using GitHub Copilot Spaces!_
+_Congratulations, you've completed this exercise and learned a lot about scale institutional knowledge using GitHub Copilot Spaces!_
 
 <img src="https://octodex.github.com/images/jetpacktocat.png" alt="celebrate" width=200 align=right>
 
@@ -10,7 +10,7 @@ Here's a recap of your accomplishments:
 - **Summarize OctoAcme project management processes** by exploring and summarizing project management documentation
 - **Create an issue using Copilot Spaces** to add a README for project management docs
 - **Implemented improvements** by updating and adding new documentation based on your analysis
-- **Experienced the full cycle** of knowledge democratization: capture, analyze, improve, and share
+- **Experienced the full cycle** of scaling knowledge : capture, analyze, share, and  improve
 
 You've successfully used GitHub Copilot Spaces to transform tribal knowledge into accessible, improvable documentation that your entire team can benefit from. This approach scales beyond project management to any domain where knowledge needs to be captured and shared effectively.
 
@@ -18,7 +18,7 @@ You've successfully used GitHub Copilot Spaces to transform tribal knowledge int
 
 - **Scale the approach**: Apply this pattern to other areas where your team has tribal knowledge
 - **Learn more about Copilot Spaces**: [GitHub Copilot Spaces Documentation](https://docs.github.com/en/copilot/how-tos/provide-context/use-copilot-spaces/)
-- **Share with your team**: Introduce this workflow to help democratize tribal knowledge across your organization
+- **Share with your team**: Introduce this workflow to help scale institutional knowledge across your organization
 
 Take another GitHub Skills exercise on [GitHub Learn](https://learn.github.com/skills):
 
