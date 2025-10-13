@@ -55,8 +55,8 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
 
 1. **Attach the issue to your conversation**: In your Copilot Space, type the following (replace `#` with your actual issue number):
 
-   > [!IMPORTANT]
-   > After typing the issue reference below, press **\<SHIFT\> + \<ENTER\>** to add it to the conversation without sending the message yet.
+ > [!IMPORTANT]
+ > After typing the issue reference below, press **\<SHIFT\> + \<ENTER\>** to add it to the conversation without sending the message yet.
 
    ```text
    @{{full_repo_name}}/issues/#
@@ -89,8 +89,8 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
 
    <img width="70%" height="70%" alt="pull requests" src="https://github.com/user-attachments/assets/d30685c3-046b-4c6e-8254-4bcb8aa959b5" />
 
-   > [!NOTE]  
-   > The coding agent typically takes 5-15 minutes to complete the work. You can click **View session** to watch the progress if desired.
+ > [!NOTE]  
+ > The coding agent typically takes 5-15 minutes to complete the work. You can click **View session** to watch the progress if desired.
 
 1. **Review and merge**: Once the pull request is ready:
 
