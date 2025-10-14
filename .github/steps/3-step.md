@@ -100,7 +100,7 @@ Check issues list: [https://github.com/{{full_repo_name}}/issues](https://github
 
     There are two ways you can check the status of the coding agent working on your pull request
     
-    1. Go to your repository and click **Pull requests** to see the progressor:
+    1. Go to your repository and click **Pull requests** to see the progress:
        
        <img width="70%" height="70%" alt="pull requests" src="https://github.com/user-attachments/assets/88e9876e-2dae-43a4-86ff-29c4cdc6077c" />
   
