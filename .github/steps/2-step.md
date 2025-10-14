@@ -85,9 +85,27 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
 
    <img width="50%" height="50%" alt="Copilot coding agent allow" src="https://github.com/user-attachments/assets/b0c92c04-d12b-4c5e-b682-33643b90ee11" />
 
-1. **Monitor progress**: You should receive a notification that the Copilot coding agent is working on your pull request. Go to your repository and click **Pull requests** to see the progress:
+1. **Monitor progress**: You should receive a notification that the Copilot coding agent is working on your pull request. 
 
-   <img width="70%" height="70%" alt="pull requests" src="https://github.com/user-attachments/assets/d30685c3-046b-4c6e-8254-4bcb8aa959b5" />
+    There are two ways you can check the status of the coding agent working on your pull request
+    
+    1. Go to your repository and click **Pull requests** to see the progressor:
+       
+       <img width="70%" height="70%" alt="pull requests" src="https://github.com/user-attachments/assets/88e9876e-2dae-43a4-86ff-29c4cdc6077c" />
+  
+    1. You can track progress and view details in **Mission Control** for **agent tasks** by following the task link
+  
+       <img width="40%" height="40%" alt="mission control" src="https://github.com/user-attachments/assets/a64c1826-720e-4b5f-8d0f-8aebc9aca501" />
+
+1. **Check open pull requests**: We can check pull request status from our **Copilot Space** as well.
+
+   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   >
+   > ```prompt
+   > check open pull requests
+   > ```
+
+   <img width="40%" height="40%" alt="mission control" src="https://github.com/user-attachments/assets/ef0ffd8a-ba8f-4618-a2cc-8e1e0d1bb309" />
 
  > [!NOTE]  
  > The coding agent typically takes 5-15 minutes to complete the work. You can click **View session** to watch the progress if desired.
