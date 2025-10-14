@@ -116,7 +116,7 @@ You can then add this issue to your repository by clicking the **Create** button
 <details>
 <summary> 📷 Show screenshot of the issue draft</summary>
 
-<img width="50%" height="50%" alt="conversation to create an issue" src="https://github.com/user-attachments/assets/cc152bc6-d189-4143-8eea-719f70e43a6f" />
+<img width="50%" height="50%" alt="README issue drafted" src="https://github.com/user-attachments/assets/fd324605-a02b-4d4a-a87f-06db9339bb44" />
 
 </details>
 You can copy or open the link in a new tab to see the newly created issue
@@ -124,7 +124,7 @@ You can copy or open the link in a new tab to see the newly created issue
 <details>
 <summary> 📷 Show screenshot of the created issue</summary>
 
-<img width="50%" height="50%" alt="cs-9" src="https://github.com/user-attachments/assets/a174f9cc-6c28-4698-a9b0-9e61e711413a" />
+<img width="50%" height="50%" alt="README issue created" src="https://github.com/user-attachments/assets/c4be58b8-edbf-463a-be49-8ad184d59617" />
 
 </details>
 
