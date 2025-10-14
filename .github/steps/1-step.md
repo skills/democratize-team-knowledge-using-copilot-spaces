@@ -91,8 +91,8 @@ Add a description:
 1. Verify the repository appears in your sources list
 
   <img width="30%" height="30%" alt="Add sources" src="https://github.com/user-attachments/assets/05268c3f-5270-4e60-bc87-69fc27b1df72" />
-  <img width="30%" height="30%" alt="Add sources repository" src="https://github.com/user-attachments/assets/d8b38b95-98ca-44a3-b7b4-d1ab4c12d348" />
-  <img width="30%" height="30%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/8340a69c-0d05-49df-92e7-bf929b57443b" />
+  <img width="30%" height="30%" alt="Add sources repository" src="https://github.com/user-attachments/assets/83725fcc-eb0d-4478-ba88-8de0cd8a6732" />
+  <img width="30%" height="30%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/f3e9c65a-1446-4f1f-a84f-10f893d0e22e" />
 
 ### ⌨️ Activity: Create an issue in the repository for a README for OctoAcme Project Management Docs
 
@@ -106,6 +106,9 @@ Add a description:
   > that has links to all the docs in the docs folder.
   > - The README should also contain a brief summary of the project management processes used by OctoAcme.
   > - Make sure README, project management processes summary, and links are in the title of the issue.
+  > - Use the "Add Content to Project Management Process Docs" template.
+  >  - Which process document do you want to update? "<new document>"
+  >  - Fill in the other fields
   > ```
 
 You can then add this issue to your repository by clicking the **Create** button.
@@ -113,7 +116,7 @@ You can then add this issue to your repository by clicking the **Create** button
 <details>
 <summary> 📷 Show screenshot of the issue draft</summary>
 
-<img width="50%" height="50%" alt="conversation to create an issue" src="https://github.com/user-attachments/assets/cc152bc6-d189-4143-8eea-719f70e43a6f" />
+<img width="50%" height="50%" alt="README issue drafted" src="https://github.com/user-attachments/assets/fd324605-a02b-4d4a-a87f-06db9339bb44" />
 
 </details>
 You can copy or open the link in a new tab to see the newly created issue
@@ -121,7 +124,7 @@ You can copy or open the link in a new tab to see the newly created issue
 <details>
 <summary> 📷 Show screenshot of the created issue</summary>
 
-<img width="50%" height="50%" alt="cs-9" src="https://github.com/user-attachments/assets/a174f9cc-6c28-4698-a9b0-9e61e711413a" />
+<img width="50%" height="50%" alt="README issue created" src="https://github.com/user-attachments/assets/c4be58b8-edbf-463a-be49-8ad184d59617" />
 
 </details>
 
