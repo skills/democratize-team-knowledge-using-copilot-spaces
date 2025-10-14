@@ -106,6 +106,9 @@ Add a description:
   > that has links to all the docs in the docs folder.
   > - The README should also contain a brief summary of the project management processes used by OctoAcme.
   > - Make sure README, project management processes summary, and links are in the title of the issue.
+  > - Use the "Add Content to Project Management Process Docs" template.
+  >  - Which process document do you want to update? "<new document>"
+  >  - Fill in the other fields
   > ```
 
 You can then add this issue to your repository by clicking the **Create** button.

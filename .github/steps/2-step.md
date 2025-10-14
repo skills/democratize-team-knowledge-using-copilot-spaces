@@ -78,7 +78,7 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
    >   used by OctoAcme based on the summary we just created.
    > - The README should be in the `docs/` folder
    > - Add this pull request to the attached issue.
-   > - Add {{login}} as a reviewer
+   > - Add {{login}} as a reviewer for the pull request
    > ```
 
 1. **Allow the coding agent**: When prompted, select **Allow** to let the coding agent work on your repository
