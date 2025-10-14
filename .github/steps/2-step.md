@@ -68,8 +68,8 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
 
 1. **Create the pull request**: Now send this prompt to create the pull request:
 
-   <img width="80%" height="80%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/aab825e3-53bb-40e7-adbd-efbae520293d" />
-
+   <img width="80%" height="80%" alt="repository issue and pull request creation" src="https://github.com/user-attachments/assets/af469c6a-fc87-454b-9a65-23ffe0d7cd50" />
+   
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
