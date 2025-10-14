@@ -91,8 +91,8 @@ Add a description:
 1. Verify the repository appears in your sources list
 
   <img width="30%" height="30%" alt="Add sources" src="https://github.com/user-attachments/assets/05268c3f-5270-4e60-bc87-69fc27b1df72" />
-  <img width="30%" height="30%" alt="Add sources repository" src="https://github.com/user-attachments/assets/d8b38b95-98ca-44a3-b7b4-d1ab4c12d348" />
-  <img width="30%" height="30%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/8340a69c-0d05-49df-92e7-bf929b57443b" />
+  <img width="30%" height="30%" alt="Add sources repository" src="https://github.com/user-attachments/assets/83725fcc-eb0d-4478-ba88-8de0cd8a6732" />
+  <img width="30%" height="30%" alt="Add sources repository files" src="https://github.com/user-attachments/assets/f3e9c65a-1446-4f1f-a84f-10f893d0e22e" />
 
 ### ⌨️ Activity: Create an issue in the repository for a README for OctoAcme Project Management Docs
 
