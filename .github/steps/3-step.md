@@ -35,7 +35,7 @@ _Use the following prompt in a new Copilot Space conversation:_
   `.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml`
 
      <img width="30%" height="30%" alt="Attach" src="https://github.com/user-attachments/assets/2a447ff9-76d7-462f-9292-4663c8dc0fc9" />
-     <img width="30%" height="30%" alt="Attach files" src="https://github.com/user-attachments/assets/6ac6e33d-b333-424f-b431-e3feb7022b841" />
+     <img width="30%" height="30%" alt="Attach files" src="https://github.com/user-attachments/assets/6ac6e33d-b333-424f-b431-e3feb7022b84" />
 
      <img width="30%" height="30%" alt="Attach issue template conversation" src="https://github.com/user-attachments/assets/5fc71905-ede6-45cb-bcfa-93d2797160b2" />
 
