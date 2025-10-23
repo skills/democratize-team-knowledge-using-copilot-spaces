@@ -75,6 +75,75 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+
+---
+
+## Scrum Master
+
+### Role Summary
+Facilitates agile ceremonies, removes blockers, and supports team health. Works closely with PM and Developers to ensure smooth delivery.
+
+### Responsibilities
+- Facilitate standups, sprint planning, and retrospectives
+- Remove blockers and support team health
+- Foster continuous improvement and team collaboration
+
+### Goals
+- Enable efficient, healthy team delivery
+- Ensure impediments are addressed quickly
+- Support adoption of agile best practices
+
+### Typical Communication
+- Daily standups, sprint ceremonies
+- Retrospective notes and action items
+- Coordination with PM and Developers
+
+---
+
+## UX Designer
+
+### Role Summary
+Advocates for user needs and usability. Collaborates with Product Manager and Developers to ensure user experience is considered in planning and delivery.
+
+### Responsibilities
+- Collaborate on feature design and requirements
+- Review deliverables for user experience quality
+- Conduct user research and usability testing
+
+### Goals
+- Maximize usability and customer satisfaction
+- Ensure product meets user needs
+- Reduce friction and improve adoption
+
+### Typical Communication
+- Design reviews and feedback sessions
+- User research reports
+- Collaboration with Product Manager and Developers
+
+---
+
+## Technical Lead
+
+### Role Summary
+Guides technical direction and architecture. Mentors developers, reviews code, and ensures technical risks are identified and mitigated.
+
+### Responsibilities
+- Guide technical direction and architecture decisions
+- Mentor developers and review code
+- Identify and mitigate technical risks
+
+### Goals
+- Maintain high code quality and reliability
+- Support developer growth and collaboration
+- Ensure technical solutions align with business goals
+
+### Typical Communication
+- Technical design docs and architecture reviews
+- Code review comments
+- Risk and mitigation reports
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
